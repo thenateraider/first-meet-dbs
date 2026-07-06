@@ -1,2 +1,3 @@
 use("sample_mflix");
-db.theaters.findOne({ "location.address.city": "Long Beach" })
+db.theaters.findOne({ "location.address.city": "Long Beach" });
+// find a theater in Long Beach
