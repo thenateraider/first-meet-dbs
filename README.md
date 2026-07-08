@@ -12,6 +12,7 @@
    - [🐘 PostgreSQL / SQL Cheatsheet](#-postgresql--sql-cheatsheet)
 4. [คำอธิบายของแต่ละไฟล์สคริปต์ (Detailed Script Explanations)](#4-คำอธิบายของแต่ละไฟล์สคริปต์-detailed-script-explanations)
 5. [ไดอะแกรมสรุป TCP (TCP Overview Diagram - Excalidraw)](#5-ไดอะแกรมสรุป-tcp-tcp-overview-diagram---excalidraw)
+6. [การเปรียบเทียบฐานข้อมูล (Database Comparison - MongoDB vs PostgreSQL)](#6-การเปรียบเทียบฐานข้อมูล-database-comparison---then)
 
 ---
 
@@ -27,6 +28,7 @@ first-meet-dbs/
 │   ├── ...                           # แบบฝึกหัดคิวรีอื่นๆ (query3.mongodb.js - query19.mongodb.js)
 │   └── query20.mongodb.js            # ค้นหาภาพยนตร์ Action ปี 2010 (Implicit AND + Projection)
 ├── postgresql/                       # โฟลเดอร์เก็บสคริปต์ SQL สำหรับ PostgreSQL (รองรับโจทย์ในอนาคต)
+├── dbs-comparison.md                 # เอกสารเปรียบเทียบเชิงลึก MongoDB vs PostgreSQL (2 ภาษา TH/EN)
 ├── tcp-overview.excalidraw           # ไดอะแกรมจำลอง TCP Lifecycle & State Transitions
 └── README.md                         # ไฟล์คำอธิบายโปรเจค เอกสารโครงสร้าง และคลังคำสั่ง (ไฟล์นี้)
 ```
@@ -256,3 +258,11 @@ WHERE author = 'Spammer';
 1. ไปที่เว็บไซต์เครื่องมือวาดไดอะแกรม [Excalidraw](https://excalidraw.com/)
 2. กดที่ปุ่มเมนูหลัก (สัญลักษณ์ขีดสามขีดตรงมุมบนซ้าย) ➡️ เลือก **Open**
 3. เลือกไฟล์ [tcp-overview.excalidraw](file:///C:/Users/HP/Desktop/coding/jsd13/week-02/first-meet-dbs/tcp-overview.excalidraw) ที่อยู่ในโปรเจคนี้เพื่อรับชมความต่อเนื่องและสีสันสถานะต่างๆ ได้ทันที
+
+---
+
+## 6. การเปรียบเทียบฐานข้อมูล (Database Comparison - TH/EN)
+
+ศึกษาการเปรียบเทียบเชิงลึกระหว่าง MongoDB (NoSQL) และ PostgreSQL (SQL) ในเรื่องโครงสร้างข้อมูล การออกแบบข้อมูล (Normalization vs Denormalization) และความแตกต่างของไวยากรณ์คำสั่งคิวรีได้ที่:
+*   📄 **[dbs-comparison.md](dbs-comparison.md)** (คู่มือเปรียบเทียบ 2 ภาษา Thai-English)
+
