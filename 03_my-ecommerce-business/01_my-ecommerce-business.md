@@ -20,7 +20,10 @@ ChangHub.io is an online store that sells fixed-price repair tickets and matches
 * **Add to Cart** - Customers can select the services they want and set quantities, such as booking 3 air conditioner cleaning vouchers, and add them to the shopping cart.
 * **Place Order and Auto-Assignment** - The customer enters the service address and describes the problem. The system then automatically assigns the nearest vetted technician.
 * **Escrow Payment** - Customers pay securely online through credit cards or QR codes. The platform holds this money in a safe escrow system.
-* **Secure In-App Chat** - A private chat channel opens inside the website to connect the customer and technician. This keeps private phone numbers and emails completely hidden.
+* **Secure In-App Chat** - Private chat channels open inside the platform to completely hide private phone numbers and email addresses:
+  * **Customer <> Technician Chat** - Enables coordination, arrival scheduling, and issue photo sharing directly within the order scope.
+  * **Customer <> Admin Chat** - Opens a direct line for customer support, payment/billing assistance, and filing service complaints.
+  * **Technician <> Admin Chat** - Provides support for technicians regarding profile verification, payouts, platform disputes, or matching assistance.
 * **Approve and Payout**
   * **Pay-per-Job** - The customer reviews the finished job and clicks to approve, releasing the full escrowed money to the technician all at once.
   * **Milestone Payments** - For big projects like full house rewiring, the work is split into steps. The customer reviews and approves each step individually to release the money progressively.

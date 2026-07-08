@@ -1,0 +1,10 @@
+{
+  "_id": { "$oid": "65f700000000000000000001" },
+  "type": "customer_technician",
+  "order_id": { "$oid": "65f600000000000000000001" },
+  "customer_id": { "$oid": "65f200000000000000000001" },
+  "technician_id": { "$oid": "65f300000000000000000001" },
+  "admin_id": null,
+  "last_message_at": { "$date": "2026-07-08T07:47:00Z" },
+  "created_at": { "$date": "2026-07-08T07:46:00Z" }
+}
