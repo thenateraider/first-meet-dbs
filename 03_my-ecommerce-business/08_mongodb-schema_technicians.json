@@ -1,8 +1,0 @@
-{
-  "_id": { "$oid": "65f300000000000000000001" },
-  "name": "Bob Smith",
-  "email": "bob@example.com",
-  "phone": "089-876-5432",
-  "specialty": "Air Conditioning",
-  "status": "Verified"
-}

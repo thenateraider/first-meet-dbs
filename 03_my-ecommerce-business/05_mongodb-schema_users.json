@@ -1,7 +1,37 @@
-{
-  "_id": { "$oid": "65f200000000000000000001" },
-  "name": "Alice Johnson",
-  "email": "alice@example.com",
-  "phone": "081-234-5678",
-  "address": "123 Sukhumvit Rd, Bangkok, 10110"
-}
+[
+  {
+    "_id": "001",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "0812345678",
+    "address": "123 Sukhumvit Road, Bangkok"
+  },
+  {
+    "_id": "002",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "phone": "0823456789",
+    "address": "456 Ratchadapisek Road, Bangkok"
+  },
+  {
+    "_id": "003",
+    "name": "Somsak Jaidee",
+    "email": "somsak@example.com",
+    "phone": "0834567890",
+    "address": "789 Nimman Road, Chiang Mai"
+  },
+  {
+    "_id": "004",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "phone": "0845678901",
+    "address": "101 Rama 9 Road, Bangkok"
+  },
+  {
+    "_id": "005",
+    "name": "Bob Brown",
+    "email": "bob@example.com",
+    "phone": "0856789012",
+    "address": "202 Silom Road, Bangkok"
+  }
+]

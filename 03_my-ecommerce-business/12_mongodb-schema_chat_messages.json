@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "001",
+    "chat_id": "001",
+    "sender_id": "003",
+    "sender_role": "customer",
+    "message": "Hi Anan, what time will you arrive tomorrow?",
+    "is_read": true,
+    "sent_at": "2026-07-08T07:06:00Z"
+  },
+  {
+    "_id": "002",
+    "chat_id": "001",
+    "sender_id": "005",
+    "sender_role": "technician",
+    "message": "Hello Somsak, I will be there at 9:00 AM.",
+    "is_read": true,
+    "sent_at": "2026-07-08T07:10:00Z"
+  },
+  {
+    "_id": "003",
+    "chat_id": "002",
+    "sender_id": "001",
+    "sender_role": "customer",
+    "message": "Hi, I have a question about my invoice.",
+    "is_read": true,
+    "sent_at": "2026-07-08T07:21:00Z"
+  },
+  {
+    "_id": "004",
+    "chat_id": "003",
+    "sender_id": "002",
+    "sender_role": "technician",
+    "message": "I am having trouble updating order status.",
+    "is_read": true,
+    "sent_at": "2026-07-08T07:31:00Z"
+  },
+  {
+    "_id": "005",
+    "chat_id": "005",
+    "sender_id": "002",
+    "sender_role": "customer",
+    "message": "Can I cancel my cleaning service?",
+    "is_read": false,
+    "sent_at": "2026-07-08T08:06:00Z"
+  }
+]

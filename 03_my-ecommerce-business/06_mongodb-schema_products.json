@@ -1,7 +1,0 @@
-{
-  "_id": { "$oid": "65f500000000000000000001" },
-  "title": "AC Cleaning and Maintenance",
-  "price": 800.00,
-  "category": "Air Conditioning",
-  "description": "Full cleaning of one indoor and outdoor unit, including filter cleaning and pressure testing."
-}

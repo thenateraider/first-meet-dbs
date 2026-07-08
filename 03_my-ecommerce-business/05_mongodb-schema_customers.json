@@ -1,7 +1,0 @@
-{
-  "_id": { "$oid": "65f200000000000000000001" },
-  "name": "Alice Johnson",
-  "email": "alice@example.com",
-  "phone": "081-234-5678",
-  "address": "123 Sukhumvit Rd, Bangkok, 10110"
-}

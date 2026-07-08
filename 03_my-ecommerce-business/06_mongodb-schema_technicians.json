@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "001",
+    "name": "Somchai AC",
+    "email": "somchai@changhub.io",
+    "phone": "0911111111",
+    "specialty": "Air Conditioning",
+    "status": "active"
+  },
+  {
+    "_id": "002",
+    "name": "Wichai Plumbing",
+    "email": "wichai@changhub.io",
+    "phone": "0922222222",
+    "specialty": "Plumbing",
+    "status": "active"
+  },
+  {
+    "_id": "003",
+    "name": "Kitti Electrical",
+    "email": "kitti@changhub.io",
+    "phone": "0933333333",
+    "specialty": "Electrical Systems",
+    "status": "active"
+  },
+  {
+    "_id": "004",
+    "name": "Prasert Appliance",
+    "email": "prasert@changhub.io",
+    "phone": "0944444444",
+    "specialty": "Home Appliances",
+    "status": "inactive"
+  },
+  {
+    "_id": "005",
+    "name": "Anan Cleaning",
+    "email": "anan@changhub.io",
+    "phone": "0955555555",
+    "specialty": "Deep Cleaning",
+    "status": "active"
+  }
+]

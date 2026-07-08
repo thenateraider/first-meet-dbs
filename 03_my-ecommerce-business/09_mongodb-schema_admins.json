@@ -1,6 +1,0 @@
-{
-  "_id": { "$oid": "65f400000000000000000001" },
-  "name": "Charlie Brown",
-  "email": "charlie@changhub.io",
-  "access_level": "SuperAdmin"
-}

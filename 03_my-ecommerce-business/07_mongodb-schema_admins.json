@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "001",
+    "name": "Admin Grace",
+    "email": "grace@changhub.io",
+    "access_level": "super_admin"
+  },
+  {
+    "_id": "002",
+    "name": "Admin Tony",
+    "email": "tony@changhub.io",
+    "access_level": "moderator"
+  },
+  {
+    "_id": "003",
+    "name": "Admin Sarah",
+    "email": "sarah@changhub.io",
+    "access_level": "support"
+  },
+  {
+    "_id": "004",
+    "name": "Admin Peter",
+    "email": "peter@changhub.io",
+    "access_level": "support"
+  },
+  {
+    "_id": "005",
+    "name": "Admin Jenny",
+    "email": "jenny@changhub.io",
+    "access_level": "moderator"
+  }
+]

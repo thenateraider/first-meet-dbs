@@ -1,9 +1,0 @@
-{
-  "_id": { "$oid": "65f800000000000000000001" },
-  "chat_id": { "$oid": "65f700000000000000000001" },
-  "sender_id": { "$oid": "65f200000000000000000001" },
-  "sender_role": "customer",
-  "message": "Hello, when can you arrive to clean the AC unit?",
-  "is_read": false,
-  "sent_at": { "$date": "2026-07-08T07:47:00Z" }
-}
