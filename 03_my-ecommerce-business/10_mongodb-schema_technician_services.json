@@ -1,0 +1,62 @@
+[
+  { 
+    "_id": "ts001", 
+    "technician_id": "t001", 
+    "service_type_id": "st001", 
+    "custom_price": 180.00
+  },
+  { 
+    "_id": "ts002", 
+    "technician_id": "t001", 
+    "service_type_id": "st002", 
+    "custom_price": 1200.00
+  },
+  { 
+    "_id": "ts003", 
+    "technician_id": "t002", 
+    "service_type_id": "st001", 
+    "custom_price": 150.00
+  },
+  { 
+    "_id": "ts004", 
+    "technician_id": "t002", 
+    "service_type_id": "st003", 
+    "custom_price": 4500.00
+  },
+  { 
+    "_id": "ts005", 
+    "technician_id": "t003", 
+    "service_type_id": "st005", 
+    "custom_price": 450.00
+  },
+  { 
+    "_id": "ts006", 
+    "technician_id": "t004", 
+    "service_type_id": "st003", 
+    "custom_price": 5000.00
+  },
+  { 
+    "_id": "ts007", 
+    "technician_id": "t005", 
+    "service_type_id": "st005", 
+    "custom_price": 550.00
+  },
+  { 
+    "_id": "ts008", 
+    "technician_id": "t005", 
+    "service_type_id": "st006", 
+    "custom_price": 1800.00
+  },
+  { 
+    "_id": "ts009", 
+    "technician_id": "t007", 
+    "service_type_id": "st007", 
+    "custom_price": 2200.00
+  },
+  { 
+    "_id": "ts010", 
+    "technician_id": "t008", 
+    "service_type_id": "st008", 
+    "custom_price": 8500.00
+  }
+]

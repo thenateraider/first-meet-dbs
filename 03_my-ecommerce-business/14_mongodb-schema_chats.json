@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "ch001",
+    "type": "order_support",
+    "order_id": "o001",
+    "participant": ["u001", "t001"],
+    "lastMessageAt": "2026-07-14T08:32:00Z",
+    "createdAt": "2026-07-14T08:30:00Z"
+  },
+  {
+    "_id": "ch002",
+    "type": "order_support",
+    "order_id": "o003",
+    "participant": ["u005", "t002"],
+    "lastMessageAt": "2026-07-16T15:45:00Z",
+    "createdAt": "2026-07-15T16:45:00Z"
+  },
+  {
+    "_id": "ch003",
+    "type": "order_support",
+    "order_id": "o005",
+    "participant": ["u003", "t001"],
+    "lastMessageAt": "2026-07-17T09:45:00Z",
+    "createdAt": "2026-07-17T09:20:00Z"
+  },
+  {
+    "_id": "ch004",
+    "type": "customer_admin",
+    "order_id": null,
+    "participant": ["u002", "a001"],
+    "lastMessageAt": "2026-07-18T11:05:00Z",
+    "createdAt": "2026-07-18T11:00:00Z"
+  },
+  {
+    "_id": "ch005",
+    "type": "technician_admin",
+    "order_id": null,
+    "participant": ["t004", "a002"],
+    "lastMessageAt": "2026-07-19T14:22:00Z",
+    "createdAt": "2026-07-19T14:15:00Z"
+  }
+]
