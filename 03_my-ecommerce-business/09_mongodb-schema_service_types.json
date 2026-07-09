@@ -1,0 +1,42 @@
+[
+  { 
+    "_id": { "st_001" }, 
+    "category_id": "cat_001", 
+    "type_name": "Home Wiring & Socket Repair" 
+  },
+  { 
+    "_id": { "st_002" }, 
+    "category_id": "cat_001", 
+    "type_name": "Consumer Unit & Breaker Installation" 
+  },
+  { 
+    "_id": { "st_003" }, 
+    "category_id": "cat_001", 
+    "type_name": "Solar Cell & Inverter System Installation" 
+  },
+  { 
+    "_id": { "st_004" }, 
+    "category_id": "cat_001", 
+    "type_name": "Large Home Appliance Repair" 
+  },
+  { 
+    "_id": { "st_005" }, 
+    "category_id": "cat_002", 
+    "type_name": "Wall-Mounted AC Cleaning" 
+  },
+  { 
+    "_id": { "st_006" }, 
+    "category_id": "cat_002", 
+    "type_name": "AC Leak Repair & Gas Refill" 
+  },
+  { 
+    "_id": { "st_007" }, 
+    "category_id": "cat_002", 
+    "type_name": "AC Relocation & New Unit Installation" 
+  },
+  { 
+    "_id": { "st_008" }, 
+    "category_id": "cat_002", 
+    "type_name": "Factory & Central AC Maintenance" 
+  }
+]

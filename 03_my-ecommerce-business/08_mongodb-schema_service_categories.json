@@ -1,0 +1,10 @@
+[
+  { 
+    "_id": "cat_001", 
+    "category_name": "Electrical System Services" 
+  },
+  { 
+    "_id": "cat_002", 
+    "category_name": "Air Conditioning Services" 
+  }
+]
