@@ -1,32 +1,26 @@
 [
   {
-    "_id": "001",
-    "name": "Admin Grace",
-    "email": "grace@changhub.io",
-    "access_level": "super_admin"
+    "_id": "a001",
+    "name": "Nick Fury",
+    "birthdate": "1975-12-21",
+    "email": "fury.n@changhub.io",
+    "username": "nickfury_admin",
+    "password": "hashed_admin_pwd_fury"
   },
   {
-    "_id": "002",
-    "name": "Admin Tony",
-    "email": "tony@changhub.io",
-    "access_level": "moderator"
+    "_id": "a002",
+    "name": "Maria Hill",
+    "birthdate": "1982-04-04",
+    "email": "hill.m@changhub.io",
+    "username": "mariahill_admin",
+    "password": "hashed_admin_pwd_hill"
   },
   {
-    "_id": "003",
-    "name": "Admin Sarah",
-    "email": "sarah@changhub.io",
-    "access_level": "support"
-  },
-  {
-    "_id": "004",
-    "name": "Admin Peter",
-    "email": "peter@changhub.io",
-    "access_level": "support"
-  },
-  {
-    "_id": "005",
-    "name": "Admin Jenny",
-    "email": "jenny@changhub.io",
-    "access_level": "moderator"
+    "_id": "a003",
+    "name": "Phil Coulson",
+    "birthdate": "1979-07-08",
+    "email": "coulson.p@changhub.io",
+    "username": "philcoulson_admin",
+    "password": "hashed_admin_pwd_phil"
   }
 ]
