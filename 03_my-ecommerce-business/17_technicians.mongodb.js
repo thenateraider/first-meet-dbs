@@ -6,7 +6,7 @@ db.technicians.deleteMany({});
 // Insert mock data into the technicians collection
 db.technicians.insertMany([
   {
-    "_id": ObjectId("000000000000000000000001"),
+    "_id": ObjectId("11f100000000000000000001"),
     "name": "Tony Stark",
     "birthdate": "1990-01-01",
     "email": "tony@example.com",
@@ -18,7 +18,7 @@ db.technicians.insertMany([
     "password": "hashed_password_123"
   },
   {
-    "_id": ObjectId("000000000000000000000002"),
+    "_id": ObjectId("11f100000000000000000002"),
     "name": "Steve Rogers",
     "birthdate": "1992-05-15",
     "email": "steve@example.com",
@@ -30,7 +30,7 @@ db.technicians.insertMany([
     "password": "hashed_password_456"
   },
   {
-    "_id": ObjectId("000000000000000000000003"),
+    "_id": ObjectId("11f100000000000000000003"),
     "name": "Thor Odinson",
     "birthdate": "1985-12-10",
     "email": "thor@example.com",
@@ -42,7 +42,7 @@ db.technicians.insertMany([
     "password": "hashed_password_789"
   },
   {
-    "_id": ObjectId("000000000000000000000004"),
+    "_id": ObjectId("11f100000000000000000004"),
     "name": "Bruce Banner",
     "birthdate": "1988-11-22",
     "email": "bruce@example.com",
@@ -54,7 +54,7 @@ db.technicians.insertMany([
     "password": "hashed_password_bbb"
   },
   {
-    "_id": ObjectId("000000000000000000000005"),
+    "_id": ObjectId("11f100000000000000000005"),
     "name": "Natasha Romanoff",
     "birthdate": "1994-03-03",
     "email": "natasha@example.com",
@@ -66,7 +66,7 @@ db.technicians.insertMany([
     "password": "hashed_password_nat"
   },
   {
-    "_id": ObjectId("000000000000000000000006"),
+    "_id": ObjectId("11f100000000000000000006"),
     "name": "Clint Barton",
     "birthdate": "1989-07-07",
     "email": "clint@example.com",
@@ -78,7 +78,7 @@ db.technicians.insertMany([
     "password": "hashed_password_hawkeye"
   },
   {
-    "_id": ObjectId("000000000000000000000007"),
+    "_id": ObjectId("11f100000000000000000007"),
     "name": "Peter Parker",
     "birthdate": "2001-08-10",
     "email": "peter@example.com",
@@ -90,7 +90,7 @@ db.technicians.insertMany([
     "password": "hashed_password_spidey"
   },
   {
-    "_id": ObjectId("000000000000000000000008"),
+    "_id": ObjectId("11f100000000000000000008"),
     "name": "Wanda Maximoff",
     "birthdate": "1998-02-10",
     "email": "wanda@example.com",
@@ -102,7 +102,7 @@ db.technicians.insertMany([
     "password": "hashed_password_witch"
   },
   {
-    "_id": ObjectId("000000000000000000000009"),
+    "_id": ObjectId("11f100000000000000000009"),
     "name": "Stephen Strange",
     "birthdate": "1980-11-11",
     "email": "stephen@example.com",
@@ -114,7 +114,7 @@ db.technicians.insertMany([
     "password": "hashed_password_doctor"
   },
   {
-    "_id": ObjectId("000000000000000000000010"),
+    "_id": ObjectId("11f100000000000000000010"),
     "name": "Arthur Curry",
     "birthdate": "1993-06-16",
     "email": "arthur@example.com",

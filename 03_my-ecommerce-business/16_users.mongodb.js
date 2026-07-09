@@ -6,7 +6,7 @@ db.users.deleteMany({});
 // Insert mock data into the users collection
 db.users.insertMany([
   {
-    "_id": ObjectId("000000000000000000000001"),
+    "_id": ObjectId("11f000000000000000000001"),
     "name": "Clark Kent",
     "birthdate": "1993-02-28",
     "email": "clark.k@example.com",
@@ -16,7 +16,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_001"
   },
   {
-    "_id": ObjectId("000000000000000000000002"),
+    "_id": ObjectId("11f000000000000000000002"),
     "name": "Bruce Wayne",
     "birthdate": "1989-10-15",
     "email": "bruce.w@example.com",
@@ -26,7 +26,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_002"
   },
   {
-    "_id": ObjectId("000000000000000000000003"),
+    "_id": ObjectId("11f000000000000000000003"),
     "name": "Diana Prince",
     "birthdate": "1995-04-04",
     "email": "diana.p@example.com",
@@ -36,7 +36,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_003"
   },
   {
-    "_id": ObjectId("000000000000000000000004"),
+    "_id": ObjectId("11f000000000000000000004"),
     "name": "Barry Allen",
     "birthdate": "1999-09-09",
     "email": "barry.a@example.com",
@@ -46,7 +46,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_004"
   },
   {
-    "_id": ObjectId("000000000000000000000005"),
+    "_id": ObjectId("11f000000000000000000005"),
     "name": "Hal Jordan",
     "birthdate": "1991-03-20",
     "email": "hal.j@example.com",
@@ -56,7 +56,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_005"
   },
   {
-    "_id": ObjectId("000000000000000000000006"),
+    "_id": ObjectId("11f000000000000000000006"),
     "name": "Arthur Dent",
     "birthdate": "1982-11-12",
     "email": "arthur.d@example.com",
@@ -66,7 +66,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_006"
   },
   {
-    "_id": ObjectId("000000000000000000000007"),
+    "_id": ObjectId("11f000000000000000000007"),
     "name": "Lois Lane",
     "birthdate": "1994-07-19",
     "email": "lois.l@example.com",
@@ -76,7 +76,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_007"
   },
   {
-    "_id": ObjectId("000000000000000000000008"),
+    "_id": ObjectId("11f000000000000000000008"),
     "name": "Oliver Queen",
     "birthdate": "1988-05-16",
     "email": "oliver.q@example.com",
@@ -86,7 +86,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_008"
   },
   {
-    "_id": ObjectId("000000000000000000000009"),
+    "_id": ObjectId("11f000000000000000000009"),
     "name": "Selina Kyle",
     "birthdate": "1996-12-25",
     "email": "selina.k@example.com",
@@ -96,7 +96,7 @@ db.users.insertMany([
     "password": "hashed_user_pwd_009"
   },
   {
-    "_id": ObjectId("000000000000000000000010"),
+    "_id": ObjectId("11f000000000000000000010"),
     "name": "Iris West",
     "birthdate": "1997-01-30",
     "email": "iris.w@example.com",
@@ -106,4 +106,5 @@ db.users.insertMany([
     "password": "hashed_user_pwd_010"
   }
 ]);
+
 db.users.find({});

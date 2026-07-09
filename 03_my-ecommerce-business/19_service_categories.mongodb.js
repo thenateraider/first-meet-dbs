@@ -7,11 +7,11 @@ db.service_categories.deleteMany({});
 db.service_categories.insertMany(
 [
   { 
-    "_id": "cat001", 
+    "_id": ObjectId("11f300000000000000000001"), 
     "category_name": "Electrical System Services" 
   },
   { 
-    "_id": "cat002", 
+    "_id": ObjectId("11f300000000000000000002"), 
     "category_name": "Air Conditioning Services" 
   }
 ]
